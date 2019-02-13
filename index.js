@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { h, render, Component, Color, Bold } = require("ink")
 const Link = require("ink-link")
 

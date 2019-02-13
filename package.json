@@ -1,18 +1,18 @@
 {
-    "name": "@gitstore/install",
-    "version": "0.1.1",
+    "name": "@gitstore/in",
+    "version": "0.1.2",
     "description": "Install Gitstore repositories with ease",
     "main": "./index.js",
     "bin": "./index.js",
     "author": "Christopher Pitt <cgpitt@gmail.com>",
     "license": "MIT",
-    "homepage": "https://github.com/assertchris/gitstore-install",
+    "homepage": "https://github.com/assertchris/gitstore-in",
     "bugs": {
-        "url": "https://github.com/assertchris/gitstore-install/issues"
+        "url": "https://github.com/assertchris/gitstore-in/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/assertchris/gitstore-install.git"
+        "url": "git+https://github.com/assertchris/gitstore-in.git"
     },
     "dependencies": {
         "ink": "^0.5.1",
